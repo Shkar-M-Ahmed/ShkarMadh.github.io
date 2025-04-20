@@ -1,3 +1,16 @@
-# ShkarMadh.github.io
+# Software Engineer
 ### Education
-Software Engineer
+Qaiwan International University - Software Engineering
+### Projects
+high level Drones
+### languages
+*Kurdish
+*English
+*Italian
+### Skills
+*Programing
+Programing:
+*PYTHON
+*JAVA
+*C++
+*HTML - CSS
